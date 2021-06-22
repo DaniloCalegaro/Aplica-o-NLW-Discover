@@ -25,6 +25,7 @@ html{
 }
 
 body {
+    display: flex;
     height: 100vh; /*vh = view port - tamanho todo horizontal da tela __ vw = view port - tamanho todo vertical da tela */
     background: var(--background);
 }
@@ -59,7 +60,7 @@ button, input, .button{
 }
 
 button, .button{
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
     line-height: 0;
 
