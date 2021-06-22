@@ -1,8 +1,12 @@
 # NLW Together Rocketseat
 
+### Trilha Discover
+Projeto Central de Perguntas - Rocket.Q
+
 ------------
-
-
-## Trilha Discover
-
-- Projeto Central de Perguntas
+Tecnologias envolvidas:
+- HTML
+- CSS
+- JavaScript
+- Node
+- SQL
