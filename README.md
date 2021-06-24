@@ -13,3 +13,4 @@ Tecnologias envolvidas:
 
 ------------
 Start Sevidor - npm start
+Porta para excecução - http://localhost:3000/
