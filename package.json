@@ -1,0 +1,31 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas em modo anônimo",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "init-db": "node src/db/init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloCalegaro/Aplicacao-NLW-Discover.git"
+  },
+  "keywords": [],
+  "author": "Danilo Calegaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniloCalegaro/Aplicacao-NLW-Discover/issues"
+  },
+  "homepage": "https://github.com/DaniloCalegaro/Aplicacao-NLW-Discover#readme",
+  "dependencies": {
+    "cli-autocomplete": "^0.4.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

@@ -10,3 +10,6 @@ Tecnologias envolvidas:
 - JavaScript
 - Node
 - SQL
+
+------------
+Start Sevidor - npm start
