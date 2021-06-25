@@ -12,5 +12,5 @@ Tecnologias envolvidas:
 - SQL
 
 ------------
-Start Sevidor - npm start
-Porta para excecução - http://localhost:3000/
+Start Servidor - npm start
+Porta para excecução local - http://localhost:3000/
