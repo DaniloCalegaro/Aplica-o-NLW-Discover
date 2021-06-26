@@ -9,8 +9,11 @@ Tecnologias envolvidas:
 - CSS
 - JavaScript
 - Node
-- SQL
+- EJS
+- sqLite
 
 ------------
-Start Servidor - npm start
-Porta para excecução local - http://localhost:3000/
+#### Rodar o projeto
+- Em seu terminal, execute o `npm install` para instalar todas as dependências necessárias para funcionamento.
+- No package.json exite um script  `"start": "nodemon ."`, dessa forma, em seu terminal, execute o comando `npm start` e seu projeto vai rodar em localhost na porta 3000.
+- Porta para excecução local utilize em seu navegador: `http://localhost:3000/`
